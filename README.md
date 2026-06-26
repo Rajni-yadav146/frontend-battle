@@ -4,7 +4,7 @@
 
 ## 🚀 Live Links & Assets
 - **Live Deployment Link:** [Insert Your Vercel URL Here, e.g., https://frontend-battle-ecru.vercel.app/]
-- **Public GitHub Repository:** [Insert Your GitHub Repo URL Here]
+- **Public GitHub Repository:** [https://github.com/Rajni-yadav146/frontend-battle]
 - [cite_start]**Demo Video Walkthrough:** [Insert Your Google Drive Link Here - Under 100MB] [cite: 24]
 
 ---
