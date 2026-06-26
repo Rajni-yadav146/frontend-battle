@@ -3,7 +3,7 @@
 [cite_start]A premium, high-converting, hyper-optimized landing page engineered for an advanced AI-driven data automation platform[cite: 12]. [cite_start]Built under a strict countdown constraint for Phase 1 of the Frontend Battle[cite: 1, 13].
 
 ## 🚀 Live Links & Assets
-- **Live Deployment Link:** [Insert Your Vercel URL Here, e.g., https://frontend-battle-ecru.vercel.app/]
+- **Live Deployment Link:** [https://frontend-battle-ecru.vercel.app/]
 - **Public GitHub Repository:** [https://github.com/Rajni-yadav146/frontend-battle]
 - [cite_start]**Demo Video Walkthrough:** [Insert Your Google Drive Link Here - Under 100MB] [cite: 24]
 
